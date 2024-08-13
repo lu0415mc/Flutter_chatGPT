@@ -45,5 +45,4 @@ https://youtube.com/playlist?list=PL8kbUJtS6hyYWBLel9ZbzsmazQ4H8zWYG&si=fjsGc7SK
   
   
 <!--  <b>Note:</b> This Project is Much More Improved (i.e. Contains New Features) & Optimized than Youtube Course Project. -->
-For Feedback or Suggestions Mail Me At rajpurohitharsh2020@gmail.com 🙂
 
